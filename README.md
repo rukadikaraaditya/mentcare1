@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # mentcare
 mentcare nextjs14
 =======
@@ -39,3 +40,6 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 >>>>>>> fae2067 (Initial commit from Create Next App)
+=======
+# mentcare1
+>>>>>>> 6be7b0f18e029627cf6948b2b2bd96bba86d416c
